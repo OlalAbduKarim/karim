@@ -6,12 +6,7 @@ const educationData: EducationItem[] = [
     {
         degree: 'Bachelor of Statistics',
         institution: 'Makerere University',
-        period: '2017 - 2021'
-    },
-    {
-        degree: 'Certified in Cybersecurity (CC)',
-        institution: '(ISC)² - (In Progress)',
-        period: 'Expected 2024'
+        period: 'Graduated 2025'
     },
      {
         degree: 'Google Data Analytics Professional Certificate',

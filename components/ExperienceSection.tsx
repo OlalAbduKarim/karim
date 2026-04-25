@@ -4,8 +4,8 @@ import { Experience } from '../types';
 
 const experienceData: Experience[] = [
     {
-        role: 'IT Specialist / Data Analyst',
-        company: 'Good-faith C&C SACCO',
+        role: 'IT Specialist & Data Analyst',
+        company: 'Stelar Tech International',
         period: 'Jan 2022 - Present',
         description: [
             'Architected a data-driven risk management framework, resulting in a 25% year-over-year reduction in security incidents.',
@@ -15,23 +15,13 @@ const experienceData: Experience[] = [
         ]
     },
     {
-        role: 'Lead Data Consultant (Project-based)',
+        role: 'Data Analyst',
         company: 'Confidential Law Firm',
         period: '2021 - 2022',
         description: [
             'Improved decision-making efficiency by 30% through the development of interactive data dashboards for legal case trends.',
             'Streamlined resource allocation by identifying bottleneck case types using historical performance data.',
             'Presented complex statistical findings to senior partners, translating raw data into actionable business intelligence.',
-        ]
-    },
-    {
-        role: 'Data Analyst',
-        company: 'Uganda Bureau of Statistics',
-        period: 'Jun 2021 - Dec 2021',
-        description: [
-            'Executed statistical validation on large-scale census datasets, ensuring 98%+ data integrity for national reporting.',
-            'Developed automated visualization scripts in R that reduced report generation cycles from weeks to days.',
-            'Analyzed demographic trends to support national policy planning and resource distribution.',
         ]
     }
 ];
